@@ -3,10 +3,12 @@ PyPI Alfred Workflow for [Alfred 2](http://www.alfredapp.com)
 
 This workflow allows you to search the PyPI API for packages by name only currently.
 
-There are 2 commands avalible to you:
+There are 2 commands available to you:
 
-* pypi
-* pip
+* ``pypi``
+* ``pip``
+
+[DOWNLOAD](http://pypiworkflow.chris.reeves.io/PyPi.alfredworkflow)
 
 The ``pypi`` Command
 --------------------
@@ -21,7 +23,7 @@ The ``pip`` Command
 -------------------
 
 The ``pip`` command operates in the same way in the sense that it queroes PyPi for packages. However pressing enter
-will copy to your clipboard the ``pip install`` command for the package you have selected. This will alos include
+will copy to your clipboard the ``pip install`` command for the package you have selected. This will also include
 the version of the the package is currently at.
 
 ![Pip Workflow Screenshot](http://pypiworkflow.chris.reeves.io/pip_flask.png)
