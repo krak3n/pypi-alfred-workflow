@@ -25,3 +25,8 @@ will copy to your clipboard the ``pip install`` command for the package you have
 the version of the the package is currently at.
 
 ![Pip Workflow Screenshot](http://pypiworkflow.chris.reeves.io/pip_flask.png)
+
+Credits
+-------
+
+* [Alp](https://github.com/phyllisstein/alp) (developed by [phyllisstein](https://github.com/phyllisstein))
